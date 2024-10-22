@@ -20,3 +20,6 @@
   - After defining a model class each time, I have trained the model for 10 epoch. At this point, greater number epoch may gave better results but to not make train duration any longer, I decided to not try longer sessions of training.
   - While training, I have saved train and test accuracy and loss every epoch to visualize changes during time to understand whether overfitting occured or not. To prevent overfitting, I have used batch normalization and dropout mechanisms.
   - After saving the model that result 0.9483 accuracy on test dataset, I have completed the development part of the project.
+
+
+Kaggle Notebook: https://www.kaggle.com/code/merdavarc/notebook5942a62d7e
